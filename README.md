@@ -2,15 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Angry007&animation=fadeIn&textBg=false&section=header&reversal=false"/>
 </p>
 
-## Hi there 👋
+<div align="center">
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
 
-- [AmeraGames.net](https://dc.ameragames.net)
-- Packy
+[![wakatime](https://wakatime.com/badge/user/124a39f2-887b-4527-8227-6ed651164341.svg)](https://wakatime.com/@124a39f2-887b-4527-8227-6ed651164341)
+
+[AmeraGames.net](https://dc.ameragames.net) <br>
+Packy
 
 <h2> 🚀 &nbsp;My Skills</h2>
-<p align="left">
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
@@ -27,6 +29,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 </p>
+
+</div>
 
 <h1 align="center">
   Let's Connect! 💬
